@@ -1,2 +1,2 @@
-path=$(pwd) 
-echo "$path"
+#!/bin/bash
+$(pwd)
